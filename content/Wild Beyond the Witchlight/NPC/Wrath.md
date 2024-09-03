@@ -1,0 +1,5 @@
+- Goldne Stag
+- Guardian of the [[Palace of Heart's Desire]]
+- One of the 2 guardians that we need crown for
+	- Only one of the needs the crown
+		- Only one chance to get it right

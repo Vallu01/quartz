@@ -1,0 +1,4 @@
+- Lost her [[Gleam's Shadow|shadow]] that is now at the Witchlight Carnival
+- Is on her way to Yonder with her twin sister [[Glister]]
+- Her and her sister are called "Sun and Moon of the Carnival"
+	- Unsure which is which

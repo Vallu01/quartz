@@ -1,0 +1,8 @@
+- A hag
+- Sisters: [[Bavlorna Blightstraw]] and [[Skabatha Nightshade]]
+	- They form the [[Hourglass Coven]]
+- Rules Yonder
+- Gleams shadow is working for her in the Witchlight Carnival
+	- Has a theater named after her in the Carnival
+- Patron of arts
+	- Especially theater

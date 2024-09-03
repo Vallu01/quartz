@@ -1,0 +1,5 @@
+- Needed to open the gate to [[Palace of Heart's Desire]]
+- Place it one of the guardians
+	- We don't which one
+- There is one crown but the shape it takes depends on which guardian it is put on
+	- Silver Needles or Gold Roses

@@ -1,0 +1,5 @@
+- Owl familiar of [[Zybilna]]
+	- Could slay the [[Jabberwock]]
+- Also frozen in time
+	- At the [[Palace of Heart's Desire]]?
+- 

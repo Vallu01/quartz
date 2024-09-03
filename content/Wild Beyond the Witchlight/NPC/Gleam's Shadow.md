@@ -1,0 +1,4 @@
+- [[Gleam]] lost her shadow
+- Now lives at the Witchlight Carnival
+	- Works for [[Enderlyn Moongrave]]
+- 

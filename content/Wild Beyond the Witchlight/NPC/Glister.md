@@ -1,0 +1,4 @@
+- Twin sister of [[Gleam]]
+- On her way to Yonder with her sister
+- Her and her sister are called "Sun and Moon of the Carnival"
+	- Unsure which is which

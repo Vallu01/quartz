@@ -1,0 +1,13 @@
+- A hag
+- Sisters: [[Skabatha Nightshade]] and Endelyn Moongrave
+	- They form the [[Hourglass Coven]]
+- Rules Hither
+- Cut down [[Agdorn Longscarf]] from the tree where he was trapped by [[Zybilna]]
+	- Agdorn now collects memories for Bavlorna
+- Live in a hut in the middle of a lake in the Bullywug place
+- Had some relationship with [[Charm]].
+	- Found talking to [[Charm]] the first time the Party met her
+- [[Sir Talavar|Talavar]] the Fairy Dragon and Emissary of the [[Summer Court]] escaped from her recently.
+- Party helped to clean her sewer system of a gelatinous cube
+- Wants the part to retrieve Skatbatha's portrait from her lair
+- Agdorn wants Bavlorna's place
