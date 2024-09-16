@@ -1,22 +1,23 @@
 
 ## Dryads
-- [ ] As part of the Favour for Dryads of Nova's Thornleaf Forest. Roscoe needs to get a unicorn horn (without the unicorn attached).
+- [ ] As part of the Favour for Dryads of Nova's Thornleaf Forest. [[Roscoe]] needs to get a unicorn horn (without the unicorn attached).
 	- Their sister [[Meadowleaf]] was waiting on the other side in a mushroom circle.
 	- She is bitter and angry. Her tree has been badly damaged by [[Skabatha Nightshade]]. Skabatha is a hag.
 	- [[Meadowleaf]] told about a ring that can help locate the horn. It's in a cave westward where an old man called [[Nib]] resides. But she told not to care about him and use a secret entrance to the treasure room.
 		- Roscoe used the secret entrance and plummeted down a chute to an open treasure chest, which then closed and trapped Roscoe inside.
 	- The ring when worn and attuned leads you towards your hearts greatest desire. Twice a day you can use it to get a little nudge in the direction of your hearts greatest desire. There is a catch though. While attuned to it you can no longer form new bird-related memories
-	- The rest of the party needs a unicorn horn (alichorn) for something as well
+	- The rest of the party needs a unicorn horn ([[alichorn]]) for something as well
 
 ## Hags
-#### Enderlyn Moongrave
+#### [[Enderlyn Moongrave]]
 - [ ] [[Gleam]] has lost her shadow. Why?
 	- Shadow now working for [[Enderlyn Moongrave]]
 	- [[Charm]] also lost her shadow and seems to be linked to [[Bavlorna Blightstraw]]
 - [ ] Track [[Gleam]] and [[Glister]] in Yonder.
 	- [ ] Why are they "Sun and Moon of the Carnival"?
+- [ ] Sabotage the theatrical premiere at [[Motherhorn Castle]] in return for supply of Candy from Bavlorna
 
-#### Bavlorna Blightstraw
+#### [[Bavlorna Blightstraw]]
 - [ ] Wants the portrait of [[Skabatha Nightshade]] from her lair
 	- Probably not just a portrait
 - Why is [[Agdorn Longscarf]] collecting memories for her?
@@ -25,13 +26,13 @@
 		- [ ] Are they enemies of the [[Hourglass Coven]]?
 - [ ] Is [[Charm]] trading and making weird trades on behalf of Bavlorna?
 
-#### Skabatha Nightshade
+#### [[Skabatha Nightshade]]
 - [ ] Why is she stealing children from the Witchlight Carnival
 - [ ] Steal her portrait from her lair for [[Bavlorna Blightstraw]]
 - [ ] Free children from her workshop
 - [ ] Why does she have a key on her back?
 
-## Summer Court
+## [[Summer Court]]
 - [ ] [[Sir Talavar]] was trying to make an alliance with [[Zybilna]] to help against the Fomorians threatening his home.
 	- Aldani Valley
 - [ ] [[Lunelis Wildfill]] was sent by [[Titania]] to:
@@ -39,12 +40,14 @@
 	- Report any weaknesses you learn on the way about the defences of Prismeer and [[Zybilna]] herself. Especially ways to enter Prismeer without [[Zybilna]]'s approval or knowledge.
 	- [ ] Why is [[Sir Talavar]] trying to make an alliance while [[Lunelis Wildfill]] was spying. Both from the [[Summer Court]]
 
-## Zybilna
+## [[Zybilna]]
 - [ ] Why did she want the scarf from [[Agdorn Longscarf]]
 - [ ] Why was the [[Jabberwock]] hunting [[Lunelis Wildfill]]
 	- [ ] Theory: He entered Prismeer without [[Zybilna|Zybilna's]] approval
+- [ ] Need an [[Alichorn]] to free [[Zybilna]]
+	- [ ] [[Hourglass Coven]]s stole one from [[Ellidon]] 
 
-#### Palace of Heart's Desire
+#### [[Palace of Heart's Desire]]
 - [ ] How is the time frozen?
 	- Some cauldron in the palace is causing the effect?
 	- [ ] [[Jabberwock]] is guarding the Cauldron

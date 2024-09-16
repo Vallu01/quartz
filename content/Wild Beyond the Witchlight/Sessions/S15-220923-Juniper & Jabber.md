@@ -62,11 +62,11 @@ The [[Jabberwock]] was hunting Lunelis and attacked the party. It managed to kil
 	- Hey Listen has a drawing of it
 - Nolan had a dream about an owlbear named [[Juniper]]
 - JRP has a god named "Classified"
-- The Party needs an alichorn
+- The Party needs an [[alichorn]]
 	- The [[Royal Introduction maker]] asked them to
 		- Mr.Tibbar
 	- Rule of 3. Past. Present. Future.
-- Treant named [[Little Oak]] to the north knows [[Will of the Feywild]]
+- Treant named [[Wild Beyond the Witchlight/NPC/Little Oak]] to the north knows [[Will of the Feywild]]
 - [[Juniper]] stayed with the party
 
 ### Loot

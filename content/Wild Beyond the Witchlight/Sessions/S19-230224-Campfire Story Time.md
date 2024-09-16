@@ -18,14 +18,14 @@ Summary: Chat with rescued people from Loomlurch
 ## Recap of Last Session
 ![[S18-110224-The 3-step plan#Session Summary|no-h]]
 ## Session Summary
-The party returned to Little Oak to chat with the people rescued from Loomlurch.
+The party returned to [[Little Oak]] to chat with the people rescued from [[Loomlurch]].
 
-Sir Talavar confirmed that Zybilna is the sister of the 3 hags. He also knew the Iggy and their full name Iggwilv. Who was adopted by Baba Yaga, the mother of hags.
-The big tree and the big bridge both used to be intact back when Zybilna ruled. And the 3 domains were not separated by mist back then.
+[[Sir Talavar]] confirmed that [[Zybilna]] is the sister of the 3 hags. He also knew the Iggy and their full name Iggwilv. Who was adopted by [[Baba Yaga]], the mother of hags.
+The big tree and the big bridge both used to be intact back when [[Zybilna]] ruled. And the 3 domains were not separated by mist back then.
 
-Pilot Wigglewog and Bullywug knight Morgort helped Sir Talavar escape the bullywugs in Downfall using a gas balloon. They crashed atop the Slanted Tower in Hither, where they were attacked by 3 giant snakes, Skabatha's pets. The pilot perished while Morgort stayed back in Downfall and Sir Talavar was captured.
+Pilot Wigglewog and Bullywug knight Morgort helped [[Sir Talavar]] escape the bullywugs in Downfall using a gas balloon. They crashed atop the Slanted Tower in Hither, where they were attacked by 3 giant snakes, Skabatha's pets. The pilot perished while Morgort stayed back in Downfall and [[Sir Talavar]] was captured.
 
-The Party met a member of the Valor's Call. A dwarf named Elkhorn. They fought the League of Malevolence in the Palace of the Heart's Desire, where Elkhorn was captured.
+The Party met a member of the Valor's Call. A dwarf named [[Elkhorn]]. They fought the League of Malevolence in the Palace of the Heart's Desire, where [[Elkhorn]] was captured.
 Valor's call include:
 - Ringlerun, Human Wizard
 	- Has a Staff of Power from a Merit

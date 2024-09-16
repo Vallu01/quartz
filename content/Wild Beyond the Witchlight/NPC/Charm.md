@@ -8,3 +8,4 @@
 - Lost her shadow
 	- Same as [[Gleam]]
 	- Something to do with hags?
+- Stole the [[Alichorn]] from [[Skabatha Nightshade]]

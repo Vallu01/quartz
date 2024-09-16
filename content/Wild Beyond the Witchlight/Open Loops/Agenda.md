@@ -7,16 +7,13 @@
 - [@] Say hi to [[Meadowleaf]] from [[Nib]]
 
 ## Thither
-- [x] Steal [[Skabatha Nightshade]] portrait from her lair
-- [x] Recon Skabatha's underlings (stronger than Bavlorna's)
-- [x] Free the children from Skabatha's workshop
 
 ## Yonder
 - [@] Find [[Gleam]] and [[Glister]]
 	- [?] Ask about her shadow
 
 ## Hither
-- [?] Ask about [[Sir Talavar]]
+- [x] Ask about [[Sir Talavar]]
 	- [?] Ask about [[Summer Court]]
 - [ ] Return the portrait from Skabatha's lair to Bavlorna
 
@@ -28,6 +25,7 @@
 			- [r] Open the gates
 				- [+] Get the [[Guardian Crowns|crown]]
 		- [@] Free [[Bloodbeak]]
+	- [ ] Find the [[Alichorn]]
 
 ## Curie
 - [+] Get the [[Guardian Crowns|crown]]
@@ -35,6 +33,9 @@
 - [?] Ask for a quest when we are stronger
 
 ## Completed
+- [x] Steal [[Skabatha Nightshade]] portrait from her lair
+- [x] Recon Skabatha's underlings (stronger than Bavlorna's)
+- [x] Free the children from Skabatha's workshop
 - [x] Enter the goblin market
 - [x] Pose as merchants wanting to buy sweets and get a meeting with Skabatha
 - [x] Getaway Gang sets off scarecrows to draw out the tin men
@@ -42,7 +43,7 @@
 - [x] Test the ring
 - [x] Find [[Will of the Feywild]]
 	- [x] Ask for help against [[Skabatha Nightshade]]
-- [x] Find [[Little Oak]]
+- [x] Find [[Wild Beyond the Witchlight/NPC/Little Oak]]
 	- [x] Ask about [[Will of the Feywild]]
 - [x] Attune to the ring
 - [x] Ask the Party about Brigand Prince

@@ -3,5 +3,5 @@
 - [[Three Rules of Prismeer]]
 - Some other rule of 3
 	- Past. Present. Future
-- Asked the party to get and Alichorn
+- Asked the party to get and [[Alichorn]]
 	- For what?

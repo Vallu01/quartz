@@ -26,13 +26,13 @@ First the party talked to Chucklehead, a toffee apple headed goblin, who apparen
 
 During the meeting Skabatha offered the party a supply of candy in exchange for sabotaging her sister Enderlyn's theatrical premiere at Motherhorn castle.
 
-Skabatha also let it slip that the hags have trouble moving in and out of Prismeer. And that they have a fourth sister named Natasha, who she called "Mama's favourite".
+Skabatha also let it slip that the hags have trouble moving in and out of Prismeer. And that they have a fourth sister named [[Natasha]], who she called "Mama's favourite".
 
-Skabatha was then distracted by the Runaway Gang, leaving the party alone, but restrained by the mimic chairs. The party then flawlessly followed the plan to save the children, without deviating or getting distracted.
+Skabatha was then distracted by the Getaway Gang, leaving the party alone, but restrained by the mimic chairs. The party then flawlessly followed the plan to save the children, without deviating or getting distracted.
 
-During the some extra hag distraction Roscoe found out that gardens are fertilised by skeletons. While pursued by said skeletons he managed to yoink the Oink and flee to safety.
+During the some extra hag distraction Roscoe found out that gardens are fertilised by skeletons. While pursued by said skeletons he managed to yoink the [[Oink]] and flee to safety.
 
-Meanwhile rest of the party made their way to the kitchen where the met up with Will and managed to save Sir Talavar and a dwarf named Elkhorn.
+Meanwhile rest of the party made their way to the kitchen where the met up with Will and managed to save [[Sir Talavar]] and a dwarf named [[Elkhorn]].
 
 ## Log
 - Near Loomlurch there are much more wanted posters of Will

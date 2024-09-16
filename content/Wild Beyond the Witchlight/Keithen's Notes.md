@@ -23,7 +23,7 @@ Onto prismeer.
 Big palace in center: Palace of Hearts Desire - Zybilnas place. Frozen in time. Keys to her castle: silver/gold crown, to be placed on the correct guardian.
 *Golden Stag named [[Wrath]]. Silver Stag or something else named [[Envy]]. These are the Guardians. Silver needles or Golden Roses. Only one chance to unlock the Palace, after that the crown is gone.*
 
-We need a ==unicorns horn (alichorn)== for something regarding [[zybilna]]
+We need a ==unicorns horn ([[alichorn]])== for something regarding [[zybilna]]
 
 [[Hourglass coven]] betraed [[zybilna]] (with help of mercs) and timefroze her.
 *Used to be advisors to Zyblina. Some cauldron in the Palace is key to the freezing effect. Protected by [[Jabberwock]] that can be slain by [[Vorpal Sword]] that is behind a password protected door. Some frog person named [[Iggrik]] on top of a bean on top of the Palace. Could try to unfreeze Zybilnas owl named [[Bloodbeak]] that could slay the [[Jabberwock]].*

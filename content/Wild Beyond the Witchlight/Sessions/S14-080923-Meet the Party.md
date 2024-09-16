@@ -47,7 +47,7 @@ The Party then headed north and encountered a sleeping Owlbear with a yoke and c
 	- Seems to be raising trouble
 	- Granny Nightshade wants to capture him
 	- Helped children to flee
-	- Lives with a Treant named [[Little Oak]]
+	- Lives with a Treant named [[Wild Beyond the Witchlight/NPC/Little Oak]]
 	- Favourite glade north of [[Nib's Cave]]
 - Made a deal with Hey Listen to find their friend
 	- Scroll appeared to make the deal official
