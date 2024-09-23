@@ -1,6 +1,11 @@
 ## Next Actions
 - [+] Get a Poisoner's Kit
 - [?] Ask about [[Candlefoot]]
+- [ ] Get to Motherhorn
+	- [ ] Find the Alichorn
+- [ ] Go to Curie with the Alichorn
+	- [ ] Figure out how to unfreeze time with the Alicorn and Cauldron
+- [ ] Save the children from the meeting with Hags in Downfall
 
 ## Dryads
 - [!] Find an unicorn horn without an unicorn attached for [[Meadowleaf]]
@@ -11,10 +16,9 @@
 ## Yonder
 - [@] Find [[Gleam]] and [[Glister]]
 	- [?] Ask about her shadow
+- [ ] Sabotage Enderlyn's Premiere for Skabatha
 
 ## Hither
-- [x] Ask about [[Sir Talavar]]
-	- [?] Ask about [[Summer Court]]
 - [ ] Return the portrait from Skabatha's lair to Bavlorna
 
 ## Palace of Heart's Desire
@@ -26,13 +30,17 @@
 				- [+] Get the [[Guardian Crowns|crown]]
 		- [@] Free [[Bloodbeak]]
 	- [ ] Find the [[Alichorn]]
+- [ ] Free Zybilna to prevent the invasion by Titania
 
 ## Curie
 - [+] Get the [[Guardian Crowns|crown]]
 	- [~] Deal with one of the hags
+	- [ ] Need a plan on how to deal with the time freeze
 - [?] Ask for a quest when we are stronger
 
 ## Completed
+- [x] Find a way to Hither
+- [x] Ask about [[Sir Talavar]]
 - [x] Steal [[Skabatha Nightshade]] portrait from her lair
 - [x] Recon Skabatha's underlings (stronger than Bavlorna's)
 - [x] Free the children from Skabatha's workshop

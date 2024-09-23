@@ -1,0 +1,7 @@
+- Domain of [[Enderlyn Moongrave]]
+- Permanent thunder clouds
+- Mountainous
+- Howling winds
+- Regular lightning strikes
+	- Lightning rods with crescent moon or sun on top
+	- Upon lightning striking them there is a delayed lightning strike directed towards [[Motherhorn Castle]]

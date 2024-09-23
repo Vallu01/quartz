@@ -21,7 +21,6 @@
 - [ ] Wants the portrait of [[Skabatha Nightshade]] from her lair
 	- Probably not just a portrait
 - Why is [[Agdorn Longscarf]] collecting memories for her?
-- [ ] Why was she holding [[Sir Talavar]] captive?
 	- [ ] How does the [[Summer Court]] play in to this?
 		- [ ] Are they enemies of the [[Hourglass Coven]]?
 - [ ] Is [[Charm]] trading and making weird trades on behalf of Bavlorna?
@@ -39,6 +38,8 @@
 	- Find out what delayed [[Sir Talavar]]'s return and aid him in his mission to the utmost of your abilities.
 	- Report any weaknesses you learn on the way about the defences of Prismeer and [[Zybilna]] herself. Especially ways to enter Prismeer without [[Zybilna]]'s approval or knowledge.
 	- [ ] Why is [[Sir Talavar]] trying to make an alliance while [[Lunelis Wildfill]] was spying. Both from the [[Summer Court]]
+- [ ] According to Skabatha, Titania is now planning to invade Prismeer and burn it to the ground
+	- [ ] Sir Talavar was trying to make an alliance with Zybilna, so freeing her could prevent the conflict
 
 ## [[Zybilna]]
 - [ ] Why did she want the scarf from [[Agdorn Longscarf]]
@@ -66,7 +67,6 @@
 		- Only one of the guardians should have a crown
 		- We don't which one
 		- We only have one chance to get it right, after that the crown is gone
-		- [x] Why are there 2 crowns?
 		- [ ] How do we know which guardian and crown?
 	- [[Curie]] has the crown
 		- [ ] We need to "deal with" one of the hags of [[Hourglass Coven]] for her to give us the crown
@@ -82,3 +82,9 @@
 	- Ran away at one point but came back
 	- [ ] Fire elemental underneath it
 	- [ ] What the fuck is up with that?
+
+## Cancelled
+
+## Completed
+- [x] Why was she holding [[Sir Talavar]] captive?
+		- [x] Why are there 2 crowns?
