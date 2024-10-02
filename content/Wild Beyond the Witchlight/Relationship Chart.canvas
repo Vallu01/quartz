@@ -19,7 +19,7 @@
 		{"id":"a3e7c21c1b264e54","type":"file","file":"Wild Beyond the Witchlight/NPC/Iggrik.md","x":-430,"y":880,"width":294,"height":257},
 		{"id":"46abdee07d05ca9b","type":"file","file":"Wild Beyond the Witchlight/Locations/Palace of Heart's Desire.md","x":662,"y":852,"width":289,"height":237,"color":"3"},
 		{"id":"5675502b1fa8a0a9","type":"file","file":"Wild Beyond the Witchlight/NPC/Titania.md","x":-136,"y":1406,"width":400,"height":400},
-		{"id":"0eea171488b160cb","type":"file","file":"Wild Beyond the Witchlight/Enemies/Jabberwock.md","x":290,"y":1166,"width":282,"height":240,"color":"3"},
+		{"id":"0eea171488b160cb","type":"file","file":"Wild Beyond the Witchlight/Creatures/Jabberwock.md","x":290,"y":1166,"width":282,"height":240,"color":"3"},
 		{"id":"fbe89a7b69b497d9","type":"file","file":"Wild Beyond the Witchlight/NPC/Candlefoot.md","x":-260,"y":1920,"width":324,"height":240,"color":"3"},
 		{"id":"b889fef352abc8c9","type":"file","file":"Wild Beyond the Witchlight/NPC/Envy.md","x":690,"y":1580,"width":234,"height":180,"color":"3"},
 		{"id":"61a29ffd921b5566","type":"file","file":"Wild Beyond the Witchlight/NPC/Bloodbeak.md","x":-60,"y":720,"width":277,"height":200},

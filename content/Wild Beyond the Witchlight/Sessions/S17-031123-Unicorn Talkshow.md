@@ -19,7 +19,7 @@ Summary: Chat with the unicorn named Lamorna
 The Party had a long conversation with the Unicorn named [[Lamorna]], learning a lot of useful information.
 
 Lamorna had a mate called Ellidon, who was taken by the hags. The hags took away Ellidon's horn and used it to imprison [[Zybilna]]. It's still intact and it's needed to free [[Zybilna]].
-Ellidon was last seen at mushroom circle in Eastern Thither dancing with the mushroom people. The hags attacked with their minions, Skabatha's tin men, Bavlorna's frog people and Enderlyn's shadow people.
+Ellidon was last seen at mushroom circle in Eastern Thither dancing with the mushroom people. The hags attacked with their minions, Skabatha's tin men, Bavlorna's frog people and [[Enderlyn Moongrave|Enderlyn]]'s shadow people.
 
 Lamorna also told that some of the party have curses on them.
 Hey listen is allergic to squirrels, is missing a letter in his name and one unknown life altering curse.

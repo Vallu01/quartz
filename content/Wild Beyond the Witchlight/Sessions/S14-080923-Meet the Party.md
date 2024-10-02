@@ -17,7 +17,7 @@ Summary: Roscoe met the Party and Nib gave them magic items
 ## Recap of Last Session
 
 ## Session Summary
-Roscoe was looking for a Ring of Heart's Desire. [[Meadowleaf]] told him about a secret entrance to [[Nib's Cave]] . After plummeting down a chute, he got trapped in a chest. Hey Listen saved him from the chest. The door to the cavern closed and a puzzle with levers needed to be solved to escape. The Party fought mimics on the way out.  JRP picked up the [[mimic]] that used to a book titled "How to spot a [[Mimic]]".
+Roscoe was looking for a Ring of Heart's Desire. [[Meadowleaf]] told him about a secret entrance to [[Nib's Cave]] . After plummeting down a chute, he got trapped in a chest. Hey Listen saved him from the chest. The door to the cavern closed and a puzzle with levers needed to be solved to escape. The Party fought mimics on the way out.  JRP picked up the [[Mimic]] that used to a book titled "How to spot a [[Mimic]]".
 
 The Party was sent in by [[Nib]] to investigate a knocking sound that turned out to be Roscoe trapped in the chest. As a thank you [[Nib]] made uncommon magic items for the party. Roscoe then said that he owes them a favour. Roscoe and Hey Listen made a deal where Roscoe helps them to find their friend. It was made a official by a Feywild scroll.
 
@@ -32,8 +32,8 @@ The Party then headed north and encountered a sleeping Owlbear with a yoke and c
 - Another room
 	- 3 closed treasure chests on a citrus carpet
 	- Stone pedestal
-		- Old red leather tome. Silver letters embossed into it. "How to spot a [[mimic]]"
-		- It turned out to be a [[mimic]]
+		- Old red leather tome. Silver letters embossed into it. "How to spot a [[Mimic]]"
+		- It turned out to be a [[Mimic]]
 		- JRP picked up the book.
 - JRP gave Roscoe the [[Three Rules of Prismeer]]
 - There is dance that will teleport you to the "Start" sign.

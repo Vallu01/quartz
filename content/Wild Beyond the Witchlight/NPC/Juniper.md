@@ -4,7 +4,7 @@
 - Hey Listen knows it from before[^S15]
 - Nolan has some sort of connection to it as well[^S15]
 	- A dream of some sort?
-- Currently with the party[^S15]
+- Currently at Little Oak[^S22]
 
 
 
@@ -14,3 +14,4 @@
 ![[Pasted image 20230923000715.png]]
 
 [^S15]: [[S15-220923-Juniper & Jabber]]
+[^S22]: [[S22-290924-Trust the Local]]

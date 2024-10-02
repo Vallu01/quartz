@@ -24,9 +24,9 @@ Upon consulting [[Lamorna]], the party decided the hags cannot be trusted. So th
 
 The party also learned that [[Titania]] was envious of [[Zybilna]]. As [[Titania]] didn't like the fact that someone who wasn't born Fey was ruling a Fey realm. According to [[Lamorna]] [[Zybilna]] was a human before being adopted by [[Baba Yaga]].
 
-The party then made a plan to get the [[Alichorn]] from Enderlyn, return to [[Curie]] to make a plan on how to unfreeze time at the [[Palace of Heart's Desire]] and free [[Zybilna]]. And before or after that go save the children from [[Skabatha Nightshade]]
+The party then made a plan to get the [[Alichorn]] from [[Enderlyn Moongrave|Enderlyn]], return to [[Curie]] to make a plan on how to unfreeze time at the [[Palace of Heart's Desire]] and free [[Zybilna]]. And before or after that go save the children from [[Skabatha Nightshade]]
 
-With help from [[Sowpig]] the party ventured to [[Yon]], being attacked by [[darklings]] and [[Shadow|shadows]] in between [[Yon]] and Thither.  Upon arrival the party came upon an elven figure, a humanoid dandelion and a honeybee the size of an orange.
+With help from [[Sowpig]] the party ventured to [[Yon]], being attacked by [[Darklings]] and [[Shadow|shadows]] in between [[Yon]] and Thither.  Upon arrival the party came upon an elven figure, a humanoid dandelion and a honeybee the size of an orange.
 ## Log
 - 8 days until [[Titania]] invades
 	- [[Sir Talavar]] is bringing the word

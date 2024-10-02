@@ -10,12 +10,10 @@
 
 ## Hags
 #### [[Enderlyn Moongrave]]
-- [ ] [[Gleam]] has lost her shadow. Why?
-	- Shadow now working for [[Enderlyn Moongrave]]
-	- [[Charm]] also lost her shadow and seems to be linked to [[Bavlorna Blightstraw]]
-- [ ] Track [[Gleam]] and [[Glister]] in Yonder.
-	- [ ] Why are they "Sun and Moon of the Carnival"?
+- [ ] Why are they "Sun and Moon of the Carnival"?
 - [ ] Sabotage the theatrical premiere at [[Motherhorn Castle]] in return for supply of Candy from Bavlorna
+- [ ] [[Motherhorn Castle]] is build on good stone but the [[Korred]]s can teach us a dance to weaken it and bring it down
+	- [ ] We need to stop the [[Brigganock]]s from making noise and working for Enderlyn
 
 #### [[Bavlorna Blightstraw]]
 - [ ] Wants the portrait of [[Skabatha Nightshade]] from her lair
@@ -24,6 +22,7 @@
 	- [ ] How does the [[Summer Court]] play in to this?
 		- [ ] Are they enemies of the [[Hourglass Coven]]?
 - [ ] Is [[Charm]] trading and making weird trades on behalf of Bavlorna?
+	- [ ] Why did he lose her shadow?
 
 #### [[Skabatha Nightshade]]
 - [ ] Why is she stealing children from the Witchlight Carnival
@@ -86,5 +85,9 @@
 ## Cancelled
 
 ## Completed
+- [x] Track [[Gleam]] and [[Glister]] in [[Yon]]
+- [x] [[Gleam]] has lost her shadow. Why?
+	- Shadow now working for [[Enderlyn Moongrave]]
+	- [[Charm]] also lost her shadow and seems to be linked to [[Bavlorna Blightstraw]]
 - [x] Why was she holding [[Sir Talavar]] captive?
 		- [x] Why are there 2 crowns?

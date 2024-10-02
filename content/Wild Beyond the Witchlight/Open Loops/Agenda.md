@@ -1,9 +1,11 @@
 ## Next Actions
 - [+] Get a Poisoner's Kit
 - [?] Ask about [[Candlefoot]]
+- [ ] Stop the Brigganocks from making noise and contraptions for Enderlyn
+	- [ ] Korreds will teach us a dance to weaken the stone under Motherhorn
 - [ ] Get to Motherhorn
-	- [ ] Find the Alichorn
-- [ ] Go to Curie with the Alichorn
+	- [ ] Find the [[Alichorn]]
+- [ ] Go to [[Curie]] with the Alichorn
 	- [ ] Figure out how to unfreeze time with the Alicorn and Cauldron
 - [ ] Save the children from the meeting with Hags in Downfall
 
@@ -13,13 +15,21 @@
 
 ## Thither
 
-## Yonder
+
+## [[Yon]]
 - [@] Find [[Gleam]] and [[Glister]]
 	- [?] Ask about her shadow
-- [ ] Sabotage Enderlyn's Premiere for Skabatha
+- [ ] Sabotage [[Enderlyn Moongrave|Enderlyn]]'s Premiere for Skabatha
+- [ ] Save Glister from the dungeons at [[Motherhorn Castle]]
+	- [ ] Roscoe made deal to save Glister in return for help with Enderlyn
+- [ ] Why are Glister and Gleam called the "Sun and Moon of the carnival?"
+- [ ] Steal the [[Alichorn]] from [[Enderlyn Moongrave|Enderlyn]]
+- [ ] 
 
 ## Hither
 - [ ] Return the portrait from Skabatha's lair to Bavlorna
+- [ ] Go to meet Curie
+- [ ] Save the children from Hags
 
 ## Palace of Heart's Desire
 - [!] Deal with the [[Time Freeze Cauldron]]

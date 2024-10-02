@@ -24,7 +24,7 @@ After a long re-planning session that was totally useful the party headed to Loo
 
 First the party talked to Chucklehead, a toffee apple headed goblin, who apparently has a maggot inside his head that he talks to. After sampling some candies that made Whoodini's head swell twice it's size, Chucklehead lead the party to the audience chamber to meet Skabatha.
 
-During the meeting Skabatha offered the party a supply of candy in exchange for sabotaging her sister Enderlyn's theatrical premiere at Motherhorn castle.
+During the meeting Skabatha offered the party a supply of candy in exchange for sabotaging her sister [[Enderlyn Moongrave|Enderlyn]]'s theatrical premiere at Motherhorn castle.
 
 Skabatha also let it slip that the hags have trouble moving in and out of Prismeer. And that they have a fourth sister named [[Natasha]], who she called "Mama's favourite".
 
@@ -44,8 +44,8 @@ Meanwhile rest of the party made their way to the kitchen where the met up with 
 - Candy jellied worm made Whoodini's head twice it's normal size
 - Skabatha serves Desteany to new people
 - The hags have trouble moving in and out of Prismeer
-- Skabatha hates Enderlyn and her theatrical perfomances
-	- Enderlyn has premier at her Motherhorn castle soon
+- Skabatha hates [[Enderlyn Moongrave|Enderlyn]] and her theatrical perfomances
+	- [[Enderlyn Moongrave|Enderlyn]] has premier at her Motherhorn castle soon
 		- Skabatha asks party to sabotage it in exchange for a candy supply
 - 4th sister Natasha
 	- "Mama's favourite"

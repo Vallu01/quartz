@@ -4,7 +4,7 @@ Witchlight carnival, owned by mr witch and mr light.
 *Shadarkai*
 
 Met [[Gleam]]'s shadow. The real [[Gleam]] hasn't been seen in days. Last seen in the theater of [[Enderlyn Moongrave]].
-*Gleams shadow is working for Enderlyn*
+*Gleams shadow is working for [[Enderlyn Moongrave|Enderlyn]]*
 
 Learn about the [[Hourglass coven]]: [[Bavlorna Blightstraw]], [[Skabatha Nightshade]], Endelyn Moongrave. They don't trust each other, very paranoid.
 *Stealing children from the Witchlight Carnival. Maybe only one of them? [[Skabatha Nightshade]].*

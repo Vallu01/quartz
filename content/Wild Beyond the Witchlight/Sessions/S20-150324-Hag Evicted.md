@@ -20,7 +20,7 @@ The Party returned to Loomlurch to find it abandoned. The flying rocking horse w
 
 Chucklehead was decapitated. The head was then used by Skabatha to communicate with the Party. She asked the party to meet in 5 days in Downfall to discuss an alliance. According to her Titania is going to Prismeer in 8 days.
 
-The hags do not know where the [[alichorn]] is, Skabatha claimed Enderlyn had it last. Charm stole the [[alichorn]] from Skabatha. According the ring the [[alichorn]] is currently west of of Little Oak.
+The hags do not know where the [[alichorn]] is, Skabatha claimed [[Enderlyn Moongrave|Enderlyn]] had it last. Charm stole the [[alichorn]] from Skabatha. According the ring the [[alichorn]] is currently west of of Little Oak.
 ## Log
 - Flying rocking horse is gone
 - Skabatha had a cradle in her bedroom
@@ -29,7 +29,7 @@ The hags do not know where the [[alichorn]] is, Skabatha claimed Enderlyn had it
 - Goblins killed in Loomlurch
 - Skeletons moving in weird patterns
 - The hags do not know where the [[alichorn]]
-	- Enderlyn said Bavlorna had it last
+	- [[Enderlyn Moongrave|Enderlyn]] said Bavlorna had it last
 - Skabatha says Titania is about to invade Prismeer in 8 days
 	- She asked to meet in 5 days in Downfall
 	- To discuss an alliance
